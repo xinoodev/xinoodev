@@ -7,6 +7,7 @@
 [![GitHub followers](https://img.shields.io/badge/-xinoodev-c14438?style=social&logo=github&logoColor=dark-gray&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fxinodev%2F)](https://github.com/xinoodev)
 
 * I am a Full-Stack Eginieer from [Mallorca, Spain](https://www.youtube.com/watch?v=QNlGBkHM3vw) 🇪🇸
+* I am 22 years old
 * Visit my [personal website](https://xinodev.es/) 
 * Founder & CTO of [KreativoStudio.dev](https://www.instagram.com/kreativostudio.dev/) 💡
 * Founder & CTO of ["X" Clothing](https://xclothing.store/) 👕
