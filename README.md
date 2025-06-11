@@ -1,4 +1,4 @@
-[![Nicolás Carrizo](https://github.com/xinoodev/xinoodev/blob/main/img/banner.png)](https://xinodev.es/)
+[![Nicolás Carrizo](https://github.com/xinoodev/xinoodev/blob/main/banner/banner.png)](https://xinodev.es/)
 
 ## Hey, I'm Nico!
 
