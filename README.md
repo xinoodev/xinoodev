@@ -28,4 +28,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xinoodev&theme=transparent)](https://git.io/streak-stats)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinoodev&layout=compact&theme=transparent)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinoodev&layout=compact)
