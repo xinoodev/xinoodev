@@ -26,6 +26,6 @@
 
 ### GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xinoodev&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=xinoodev&theme=dark)](https://git.io/streak-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xinoodev&theme=transparent&layout=compact)
