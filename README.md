@@ -26,4 +26,4 @@
 
 ### GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=xinoodev&theme=transparent&border_radius=12)]
+![GitHub Streak](https://streak-stats.demolab.com?user=xinoodev&theme=transparent&border_radius=12)
